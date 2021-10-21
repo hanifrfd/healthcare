@@ -1,7 +1,7 @@
-.jumbotron{
+.jumbotrons{
     margin-bottom: 24px;
 }
 
-.jumbotron > img{
+img{
     border-radius: 8px;
 }
