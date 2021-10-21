@@ -11,7 +11,7 @@ export default function News() {
                 <Headline headline="News"></Headline>
                 <div className="news-list">
                     <Card type="news-card">
-                        <img src="news/1.jpg" width="100%" height="100" alt="news" />
+                        <img src="news/1.jpg" width="100%" height="120" alt="news" />
                         <div className="news-content">
                             <h4 className="text-1 txt-black">Daftar Melalui aplikasi online</h4>
                             <p className="text-3 txt-primary">Jun, 2021</p>
