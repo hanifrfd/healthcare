@@ -1,0 +1,15 @@
+.nav{
+    display: flex;
+    justify-content:space-between;
+    align-items: flex-end;
+    padding: 28px 0px;
+}
+
+li{
+    list-style: none;
+    display: flex;
+}
+
+li > p {
+    margin: 0;
+}

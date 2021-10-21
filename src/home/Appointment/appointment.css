@@ -1,0 +1,19 @@
+.appointment{
+    display: flex;
+    width: 100%;
+    align-items: center;
+}
+
+.appointment > img{
+    margin-right: 16px;
+}
+
+.appo-info{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+p{
+    margin-top: 4px;
+}

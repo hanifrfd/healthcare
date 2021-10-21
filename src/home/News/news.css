@@ -1,0 +1,17 @@
+.news-list{
+    display: flex;
+    overflow:auto;    
+    white-space:nowrap;
+}
+
+.news-content{
+    padding: 10px 8px;
+}
+
+.news-list > .card{
+    margin-right: 8px;
+}
+
+.news-list > .card > img{
+    border-radius: 8px 8px 0px 0px;
+}

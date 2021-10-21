@@ -1,0 +1,13 @@
+.poli{
+    display: flex;      
+    flex-direction: column;  
+    align-items: center; 
+}
+
+p{
+    width: fit-content;
+}
+
+.poli > img{
+    margin-bottom: 4px;
+}
