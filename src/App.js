@@ -3,6 +3,7 @@ import Navbar from './component/navbar';
 import Appointment from './home/Appointment';
 import FindDoc from './home/FindDoc';
 import News from './home/News';
+import Jumbotron from './home/jumbotron'
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
         </nav>
       </header>
       <main>
+        <Jumbotron></Jumbotron>
         <Appointment></Appointment>
         <FindDoc></FindDoc>
         <News></News>

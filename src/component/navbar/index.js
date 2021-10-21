@@ -4,7 +4,7 @@ function Navbar(){
     return (
         <div className="nav">
             <div className="logo">
-                <h3>Healthcare</h3>
+                <h3 className="text-0">Healthcare</h3>
             </div>
             <div className="menu">
                 <ul>
