@@ -1,7 +1,7 @@
 import './App.css';
 import Navbar from './component/navbar';
 import Appointment from './home/Appointment';
-import FindDoc from './home/FindDoc';
+import Poli from './home/Poli';
 import News from './home/News';
 import Jumbotron from './home/jumbotron'
 
@@ -16,7 +16,7 @@ function App() {
       <main>
         <Jumbotron></Jumbotron>
         <Appointment></Appointment>
-        <FindDoc></FindDoc>
+        <Poli></Poli>
         <News></News>
       </main>
     </div>

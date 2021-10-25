@@ -1,7 +1,7 @@
 import Card from '../../component/card';
 import './poli.css'
 
-export default function Poli(props) {
+export default function ListPoli(props) {
     return (
         <div>
             <Card type="poli">
